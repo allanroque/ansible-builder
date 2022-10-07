@@ -1,4 +1,14 @@
-[all:vars]
+#[all:vars]
+#ansible_password=redhat
+#ansible_ssh_port=22
+#ansible_user=root
 
-[server]
-server ansible_host=192.168.100.10
+#[libvirt]
+#niobe.aroque.com.br ansible_host=192.168.100.1 ansible_python_interpreter=/usr/bin/python3
+
+#[tower]
+#tower01.aroque.com.br ansible_host=192.168.100.12
+
+#[idm]
+#idm01.aroque.com.br ansible_host=192.168.100.10
+
